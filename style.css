@@ -1,0 +1,15 @@
+.header {
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+
+.data {
+    margin-bottom: 10px;
+}
+
+.data input {
+    padding: 10px;
+    width: 90px;
+    height: 10px;
+}
